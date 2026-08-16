@@ -4,7 +4,7 @@ This is a simple **Udemy-inspired educational website** created using **HTML and
 
 While building this project, I practiced creating webpage structures, navigation sections, course cards, layouts, spacing, styling, and responsive design. This project helped me improve my understanding of **HTML structure and CSS styling** through practical implementation.
 
-🔗 **Live Website:** [Add your live website link here]
+🔗 **Live Website:** [ https://bhavadarshinics153.github.io/UDAMEY-SAMPLE-WEBSITE/]
 
 **Technologies Used:**
 
